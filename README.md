@@ -1,5 +1,5 @@
 # Portfolio
-## How can AI/Language Models help business? ([click here](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business))
+## How can AI/Language Models help business? ([click here](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business?tab=readme-ov-file#how-can-ailanguage-models-help-business))
 > [Dialogue Facilitator](https://github.com/alxfed) asks the best three models this question, summarizes their first responces and continues by discussing each of the recommendations separately with every model. This indirectly demonstrates their capabilities as well as the conversational skills of Facilitator himself.
 
 ## AI / Language Models discuss a topic with the help of virtual 'experts'/entities ([click here](https://github.com/ai-dialogue-facilitator/discussion-with-experts))
